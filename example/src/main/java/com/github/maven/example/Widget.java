@@ -25,6 +25,9 @@ public class Widget {
 
 	/**
 	 * Set the widget enable state
+	 *
+	/**
+	 * Set the widget enable state
 	 * 
 	 * @param enabled
 	 * @return this widget
